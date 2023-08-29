@@ -1,0 +1,17 @@
+.custom-bg{
+	background-color: #6917c2 !important;                 
+}
+
+.admin .card:hover{
+	background-color : #e2e2e2 !important;
+	cursor : pointer !important;
+}
+
+.list-group-item .active {
+	background-color: #6917c2 !important;
+    border-color: transparent !important;
+}
+.product-card:hover{
+	background-color: #e2e2e2 !important;
+	cursor: pointer !important;
+}
